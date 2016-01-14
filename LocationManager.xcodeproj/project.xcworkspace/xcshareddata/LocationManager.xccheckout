@@ -10,14 +10,14 @@
 	<string>LocationManager</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>61AC9A0CA12CAD933417D3746B11A04A1E51BE90</key>
+		<key>614A3C92080F52309AF8ECE690BEF71386F946A8</key>
 		<string>https://git.coding.net/xiaerfei/RYLocationManager.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>LocationManager.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>61AC9A0CA12CAD933417D3746B11A04A1E51BE90</key>
+		<key>614A3C92080F52309AF8ECE690BEF71386F946A8</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>61AC9A0CA12CAD933417D3746B11A04A1E51BE90</string>
+	<string>614A3C92080F52309AF8ECE690BEF71386F946A8</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>61AC9A0CA12CAD933417D3746B11A04A1E51BE90</string>
+			<string>614A3C92080F52309AF8ECE690BEF71386F946A8</string>
 			<key>IDESourceControlWCCName</key>
 			<string>RYLocationManager</string>
 		</dict>

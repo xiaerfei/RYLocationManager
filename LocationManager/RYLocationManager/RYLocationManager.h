@@ -43,13 +43,12 @@ typedef NS_ENUM(NSUInteger, RYLocationManagerLocationServiceStatus) {
 @property (nonatomic, assign, readonly) RYLocationManagerLocationResult        locationResult;
 @property (nonatomic, assign, readonly) RYLocationManagerLocationServiceStatus locationStatus;
 
-@property (nonatomic, copy, readonly) CLLocation *locatedCityLocation;
-
-@property (nonatomic, copy, readonly) NSString *state;
-@property (nonatomic, copy, readonly) NSString *city;
-@property (nonatomic, copy, readonly) NSString *subLocality;
-@property (nonatomic, copy, readonly) NSString *street;
-@property (nonatomic, copy, readonly) NSString *formattedAddressLines;
+@property (nonatomic, copy, readonly) CLLocation *locatedCityLocation;//经纬度
+@property (nonatomic, copy, readonly) NSString *state;                //省
+@property (nonatomic, copy, readonly) NSString *city;                 //市
+@property (nonatomic, copy, readonly) NSString *subLocality;          //县/区
+@property (nonatomic, copy, readonly) NSString *street;               //街道（不一定有）
+@property (nonatomic, copy, readonly) NSString *formattedAddressLines;//完整地址
 
 + (instancetype)sharedInstance;
 

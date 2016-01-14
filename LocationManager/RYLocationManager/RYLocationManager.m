@@ -19,7 +19,7 @@ NSString * const RYLocationManagerDidFailedLocateNotification    = @"LocationMan
 @property (nonatomic, strong) CLLocationManager *locationManager;
 @property (nonatomic, copy, readwrite) CLLocation *locatedCityLocation;
 
-@property (nonatomic, assign, readwrite) RYLocationManagerLocationResult locationResult;
+@property (nonatomic, assign, readwrite) RYLocationManagerLocationResult        locationResult;
 @property (nonatomic, assign, readwrite) RYLocationManagerLocationServiceStatus locationStatus;
 
 @property (nonatomic, copy, readwrite) NSString *state;
